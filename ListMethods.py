@@ -1,0 +1,11 @@
+#List Methods(add,append,extend,delete)
+fruits=['aaple','banana','mango','cherry']
+print(fruits)
+fruits.insert(2,'watermelon')
+print(fruits)
+fruits.append('orange')
+print(fruits)
+fruits.extend([4,5,6])
+print(fruits)
+fruits.remove('mango')
+print(fruits)
