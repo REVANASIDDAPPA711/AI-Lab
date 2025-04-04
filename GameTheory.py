@@ -9,6 +9,7 @@ def print_board():
     print(row2)
     print(row3)
     print()
+    
 def player_move(icon):
     if icon=='X':
         number=1
